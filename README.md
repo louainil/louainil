@@ -4,10 +4,7 @@
 
 <!-- Capsule Header -->
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&text=OUARAS%20Khelil%20Rafik&fontAlign=50&fontAlignY=35&desc=Data%20Science%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlign=50&descAlignY=65&color=0:0d1117,100:1f6feb&animation=fadeIn&fontColor=000000"
-    alt="Header"
-  />
+ 
 </p>
 
 ---
