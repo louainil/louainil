@@ -7,18 +7,10 @@
  
 </p>
 
----
-
-
----
-
-
 #### **Design & Tools**
 <p>
   <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,git,linux" />
 </p>
-
----
 
 
 
